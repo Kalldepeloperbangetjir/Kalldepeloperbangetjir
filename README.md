@@ -4,18 +4,16 @@ I'm a passionate developer from Indonesia who loves building systems, exploring 
 # 🚀 What I Do
 🧠 Coding in multiple languages: PAWN, Lua, C#, Java, Kotlin, JavaScript
 
-🎮 Game development – From SA-MP roleplay systems to Unity FPS and 3D simulators
+🎮 Game development – From SA-MP gamemodes systems to Unity FPS and 3D simulators
 
 ⚙️ Automation & tools – Building Discord bots, anti-cheat systems, and custom launchers
-
-🛡️ Exploring Cybersecurity, system defense, and client-side security
 
 💻 Creating modern UIs, clean scripts, and modular code
 
 # 🛠️ My Projects
 🎯 sa-mp gamemodes, Discord Modern bots, indie games
 
-🔫 FPS Multiplayer with Mirror Networking (Deathmatch & Roleplay hybrid)
+🔫 FPS Multiplayer
 
 🤖 Discord Bots – Multi-function (economy, role system, monitoring)
 
